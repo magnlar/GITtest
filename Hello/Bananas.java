@@ -7,7 +7,7 @@
  */
 public class Bananas
 {
-    private static final String tehMessage = "Über-mucho bananas";
+    private static final String tehMessage = "Uber-mucho bananas";
 
     
     public static String getMess()
